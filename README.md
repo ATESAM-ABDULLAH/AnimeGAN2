@@ -1,4 +1,4 @@
-## Implementation of [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
+## Implementation of AnimeGAN
 
 
 ## Samples
