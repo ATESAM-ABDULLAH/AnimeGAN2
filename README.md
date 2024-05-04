@@ -1,5 +1,13 @@
 ## Implementation of AnimeGAN
 
+This repository provides a PyTorch implementation for transforming real-world photos into anime style images, based on the AnimeGAN research paper.
+
+Features:
+- Real-time photo animation
+- Generative Adversarial Network (GAN) architecture
+
+[Demo Video](https://youtu.be/Akr6-zIViTM?si=5eSBoUwZAS91FyfA)
+[Paper](https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf)
 
 ## Samples
 
